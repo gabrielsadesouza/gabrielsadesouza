@@ -1,10 +1,10 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel Sá and my nickname is "gabrielsadesouza"!
+#  Hello! Welcome to my Github profile! 👋
+## My name is Gabriel Sá and my nickname is "gabrielsadesouza"
 
 - 🌱 Always curious about programming, I ventured into studying Systems Analysis and Development
 - 💬 Ask me about anything, if I know, I will answer!
 - 📫 How to reach me: gabrielsa.desouza@outlook.com
-- ⚡ Fun fact: Músico nas horas vagas!🎷
+- ⚡ Fun fact: Musician in his spare time!🎷
 
 <div>
 <a href="https://www.linkedin.com/in/gabrielsadesouza" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,4 +18,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsadesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/gabrielsadesouza/gabrielsadesouza/blob/output/github-contribution-grid-snake.svg)
