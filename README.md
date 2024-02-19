@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/@gabrielsadesouza" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
+
 <div>
 <a href="https://github.com/gabrielsadesouza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsadesouza&layout=compact&langs_count=7&theme=dracula"/>
